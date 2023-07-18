@@ -1,8 +1,8 @@
 ### Hello, I'm Gabriel Coelho 👋
 
 
-- 🌱 I’m currently learning typescript, springboot, laravel and others!
-- ❤  I constantly try to better everything I do!
+- I’m currently learning typescript, springboot, laravel and others!
+- Just try to better everything I can.
 
 <div align="center">
   <a href="https://github.com/gabrielcoelh8">
