@@ -1,9 +1,5 @@
 ### Hello, I'm Gabriel Coelho 👋
 
-
-- I’m currently learning typescript, springboot, laravel and others!
-- Just try to better everything I can.
-
 <div align="center">
   <a href="https://github.com/gabrielcoelh8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcoelh8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
