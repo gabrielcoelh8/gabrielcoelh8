@@ -1,3 +1,3 @@
-- STEM degree in Technology Internet's Systems
-- Full-stack web-dev
-- Game development enthusiast with Godot and C++
+- STEM degree in Internet's Systems
+- Fullstack web dev
+- Game development and designer with Godot and C#
