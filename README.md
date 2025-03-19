@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Roberto</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **C#, C++, DotNet and Go**
 
