@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, C++, DotNet and Go**
 
-- 👨‍💻 All of my projects are available at [www.devcoelho.pp.ua](www.devcoelho.pp.ua)
+- 👨‍💻 All of my projects are available at [www.devcoelho.pp.ua](https://www.devcoelho.pp.ua)
 
 - 💬 Ask me about **Python, Java and Javascript**
 
